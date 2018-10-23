@@ -1,2 +1,2 @@
-# HTML-CSS-JAVASCRIPT-SOLO-STUDY
-html css javascript 개인 공부
+# C-JAVA-WEB-SOLO-STUDY
+html css javascript 개인 공부 
