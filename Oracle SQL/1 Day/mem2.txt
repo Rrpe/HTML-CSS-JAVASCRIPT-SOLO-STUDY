@@ -1,4 +1,0 @@
-insert into member values('10','은비야돌아와줘')
-/
-insert into member values('10','은비야돌아와줘')
-/

@@ -1,5 +1,0 @@
-SQL> insert into member values('6', '호에에에');
-
-1 개의 행이 만들어졌습니다.
-
-SQL> spool off
